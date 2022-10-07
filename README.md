@@ -11,7 +11,8 @@ This is a summary of recent semi-supervised semantic segmentation methods.
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
 |Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students | TCC|Arxiv|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.02178.pdf)
 |Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation|UniMatch|Arxiv |PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
-|Multi-View Correlation Consistency for Semi-Supervised Semantic Segmentation|MVCC|Arxiv|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.08437.pdf)
+|Multi-View Correlation Consistency for Semi-Supervised Semantic Segmentation|MVCC|Arxiv|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.08437.pdf)|
+|FixMatchSeg: Fixing FixMatch for Semi-Supervised Semantic Segmentation|FixMatchSeg|Arxiv|CAMUS, ISIC 2017, REFUGE, SCR|-|[Paper](https://arxiv.org/pdf/2208.00400.pdf)|
 |Learning from Future: A Novel Self-Training Framework for Semantic Segmentation|FST| NeurIPS 2022|PASCAL VOC 2012| [Code](https://github.com/usr922/FST)![Github stars](https://img.shields.io/github/stars/usr922/FST)|[Paper](https://arxiv.org/pdf/2209.06993.pdf)|
 |Semi-Supervised Semantic Segmentation with Cross Teacher Training|CTT|Neurocomputing 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.01327.pdf)|
 |Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation|MGD |ECCV 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.10169.pdf)|
