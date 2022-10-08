@@ -1,10 +1,11 @@
 # Awesome-Semi-Supervised-Semantic-Segmentation 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation/graphs/commit-activity)
 
 This is a summary of recent semi-supervised semantic segmentation methods. 
 
-*NOTE:*  Plese feel free to contact me (sbysbysby123@gmail.com) if I miss some papers.
+*NOTE:*  Plese feel free to contact me (sbysbysby123@gmail.com) if I miss some papers. Issues and PRs are also welcomed!
 
 
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
