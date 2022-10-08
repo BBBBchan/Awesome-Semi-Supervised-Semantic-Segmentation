@@ -7,7 +7,7 @@ This is a summary of recent semi-supervised semantic segmentation methods.
 *NOTE:*  Plese feel free to contact me (sbysbysby123@gmail.com) if I miss some papers.
 
 
-| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;&emsp;| CODE | PDF             |
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
 |Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students | TCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.02178.pdf)
 |Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation|UniMatch|Arxiv 2022|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
@@ -18,6 +18,7 @@ This is a summary of recent semi-supervised semantic segmentation methods.
 |Semi-supervised 3D shape segmentation with multilevel consistency and part substitution|-|CVM 2022|PartNet,  ShapeNetPart, ScanNet|[Code](https://github.com/isunchy/semi_supervised_3d_segmentation)![Github stars](https://img.shields.io/github/stars/isunchy/semi_supervised_3d_segmentation)|[Paper](https://arxiv.org/pdf/2204.08824.pdf)|
 |Semi-Supervised Semantic Segmentation with Cross Teacher Training|CTT|Neurocomputing 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.01327.pdf)|
 |Region-level Contrastive and Consistency Learning for Semi-Supervised Semantic Segmentation|RC2L|IJCAI 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2204.13314.pdf)|
+|One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model|-|IJCAI 2022|PASCAL VOC 2012|-|[Paper](https://arxiv.org/pdf/2205.01233.pdf)|
 |Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation|MGD |ECCV 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.10169.pdf)|
 |Learning Self-Supervised Low-Rank Network for Single-Stage Weakly and Semi-Supervised Semantic Segmentation|SLRNet|IJCV 2022| Pascal VOC 2012, L2ID, MS COCO |[Code](https://github.com/DesertsP/SLRNet)![Github stars](https://img.shields.io/github/stars/DesertsP/SLRNet)|[Paper](https://arxiv.org/pdf/2203.10278.pdf)|
 |Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels |U2PL  |CVPR 2022 |PASCAL VOC 2012  | [Code](https://github.com/Haochen-Wang409/U2PL)![Github stars](https://img.shields.io/github/stars/Haochen-Wang409/U2PL)| [Paper](https://arxiv.org/pdf/2203.03884.pdf)|
