@@ -34,6 +34,10 @@ This is a summary of recent semi-supervised semantic segmentation methods.
 |TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation|TWIST |CVPR 2022|ScanNet v2,  S3DIS| - |[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chu_TWIST_Two-Way_Inter-Label_Self-Training_for_Semi-Supervised_3D_Instance_Segmentation_CVPR_2022_paper.pdf)
 |Cross-patch Dense Contrastive Learning for Semi-supervised Segmentation of Cellular Nuclei in Histopathologic Images|CDCL|CVPR 2022| DSB, MoNuSeg|[Code](https://github.com/zzw-szu/CDCL)![Github stars](https://img.shields.io/github/stars/zzw-szu/CDCL)|[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Cross-Patch_Dense_Contrastive_Learning_for_Semi-Supervised_Segmentation_of_Cellular_Nuclei_CVPR_2022_paper.pdf)|
 |ConsInstancy: Learning Instance Representations for Semi-Supervised Panoptic Segmentation of Concrete Aggregate Particles|-|MVA 2022|sedimentation,  fresh concrete|-|[Paper](https://arxiv.org/pdf/2204.04635.pdf)|
+|Adversarial Dual-Student with Differentiable Spatial Warping for Semi-Supervised Semantic Segmentation|DGW|TCSVT 2022| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/cao-cong/ADS-SemiSeg)![Github stars](https://img.shields.io/github/stars/cao-cong/ADS-SemiSeg)|[Paper](https://arxiv.org/pdf/2203.02792.pdf)|
+|SLRNet: Semi-Supervised Semantic Segmentation Via Label Reuse for Human Decomposition Images|SLRNet|Arxiv 2022| human decomposition dataset|-|[Paper](https://arxiv.org/pdf/2202.11900.pdf)|
+|Cross-level Contrastive Learning and Consistency Constraint for Medical Image Segmentation | CLCC|ISBI 2022|Kvasir-SEG, ISIC 2018|[Code](https://github.com/ShinkaiZ/CLCC-semi)![Github stars](https://img.shields.io/github/stars/ShinkaiZ/CLCC-semi)|[Paper](https://arxiv.org/pdf/2202.04074.pdf)|
+|GuidedMix-Net: Semi-supervised Semantic Segmentation by Using Labeled Images as Reference| GuidedMix-Net|AAAI 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.14015)|
 
 
 
