@@ -31,7 +31,19 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?|-|CVPR 2022| Cityscapes, MS COCO,BDD100K|[Code](https://github.com/zhenyuw16/noisyboundaries)![Github stars](https://img.shields.io/github/stars/zhenyuw16/noisyboundaries)|[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Noisy_Boundaries_Lemon_or_Lemonade_for_Semi-Supervised_Instance_Segmentation_CVPR_2022_paper.pdf)|
 |TWIST: Two-Way Inter-label Self-Training for Semi-supervised 3D Instance Segmentation|TWIST |CVPR 2022|ScanNet v2,  S3DIS| - |[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chu_TWIST_Two-Way_Inter-Label_Self-Training_for_Semi-Supervised_3D_Instance_Segmentation_CVPR_2022_paper.pdf)
 |Adversarial Dual-Student with Differentiable Spatial Warping for Semi-Supervised Semantic Segmentation|DGW|TCSVT 2022| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/cao-cong/ADS-SemiSeg)![Github stars](https://img.shields.io/github/stars/cao-cong/ADS-SemiSeg)|[Paper](https://arxiv.org/pdf/2203.02792.pdf)|
+|Semi-supervision semantic segmentation with uncertainty-guided self cross supervision|USCS|Arxiv 2022|PASCAL VOC 2012|-|[Paper](https://arxiv.org/pdf/2203.05118.pdf)|
 |GuidedMix-Net: Semi-supervised Semantic Segmentation by Using Labeled Images as Reference| GuidedMix-Net|AAAI 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.14015)|
+|Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images|-|WACV 2022|UCM, deepglobe|[Code](https://github.com/immuno121/ALS4GAN)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.07782.pdf)|
 
 ## 2021
+
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
+|n-CPS: Generalising Cross Pseudo Supervision to n Networks for Semi-Supervised Semantic Segmentation|n-CPS|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.07528.pdf)
+|Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning|AEL|NeurIPS 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/hzhupku/SemiSeg-AEL)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.05474.pdf)|
+|Colour augmentation for improved semi-supervised semantic segmentation|-|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2110.04487.pdf)|
+|Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation|P2Seg|ICCV 2021|PASCAL VOC 2012, Cityscapes, MS COCO|-|[Paper](https://arxiv.org/pdf/2108.09025.pdf)|
+|Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation|DARS|ICCV 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/CVMI-Lab/DARS)![Github stars](https://img.shields.io/github/stars/CVMI-Lab/DARS)|[Paper](https://arxiv.org/pdf/2107.11279.pdf)|
+|Semi-supervised Semantic Segmentation with Directional Context-aware Consistency|-|CVPR 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/dvlab-research/Context-Aware-Consistency)![Github stars](https://img.shields.io/github/stars/dvlab-research/Context-Aware-Consistency)|[Paper](https://arxiv.org/pdf/2106.14133.pdf)|
+
 
