@@ -14,6 +14,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students | TCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.02178.pdf)
 |Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation|UniMatch|Arxiv 2022|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
 |Multi-View Correlation Consistency for Semi-Supervised Semantic Segmentation|MVCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.08437.pdf)|
+|Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization|-|NeurIPS 2022|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/HeimingX/semi_seg_proto)![Github stars](https://img.shields.io/github/stars/HeimingX/semi_seg_proto)|[Paper](https://arxiv.org/pdf/2210.04388.pdf)|
 |Learning from Future: A Novel Self-Training Framework for Semantic Segmentation|FST| NeurIPS 2022|PASCAL VOC 2012| [Code](https://github.com/usr922/FST)![Github stars](https://img.shields.io/github/stars/usr922/FST)|[Paper](https://arxiv.org/pdf/2209.06993.pdf)|
 |Semi-supervised 3D shape segmentation with multilevel consistency and part substitution|-|CVM 2022|PartNet,  ShapeNetPart, ScanNet|[Code](https://github.com/isunchy/semi_supervised_3d_segmentation)![Github stars](https://img.shields.io/github/stars/isunchy/semi_supervised_3d_segmentation)|[Paper](https://arxiv.org/pdf/2204.08824.pdf)|
 |Semi-Supervised Semantic Segmentation with Cross Teacher Training|CTT|Neurocomputing 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.01327.pdf)|
@@ -39,11 +40,14 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
-|n-CPS: Generalising Cross Pseudo Supervision to n Networks for Semi-Supervised Semantic Segmentation|n-CPS|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.07528.pdf)
+|n-CPS: Generalising Cross Pseudo Supervision to n Networks for Semi-Supervised Semantic Segmentation|n-CPS|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.07528.pdf)|
+|Revisiting consistency for semi-supervised semantic segmentation|-|Arxiv 2021|Cityscapes|-|[Paper](https://arxiv.org/pdf/2106.07075.pdf)|
+|Robust Mutual Learning for Semi-supervised Semantic Segmentation|-|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2106.00609.pdf)|
 |Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning|AEL|NeurIPS 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/hzhupku/SemiSeg-AEL)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.05474.pdf)|
 |Colour augmentation for improved semi-supervised semantic segmentation|-|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2110.04487.pdf)|
 |Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation|P2Seg|ICCV 2021|PASCAL VOC 2012, Cityscapes, MS COCO|-|[Paper](https://arxiv.org/pdf/2108.09025.pdf)|
 |Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation|DARS|ICCV 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/CVMI-Lab/DARS)![Github stars](https://img.shields.io/github/stars/CVMI-Lab/DARS)|[Paper](https://arxiv.org/pdf/2107.11279.pdf)|
 |Semi-supervised Semantic Segmentation with Directional Context-aware Consistency|-|CVPR 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/dvlab-research/Context-Aware-Consistency)![Github stars](https://img.shields.io/github/stars/dvlab-research/Context-Aware-Consistency)|[Paper](https://arxiv.org/pdf/2106.14133.pdf)|
+|Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision|CPS|CVPR 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/charlesCXK/TorchSemiSeg)![Github stars](https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg)|[Paper](https://arxiv.org/pdf/2106.01226.pdf)|
 
 
