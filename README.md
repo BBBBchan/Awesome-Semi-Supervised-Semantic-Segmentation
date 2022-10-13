@@ -6,7 +6,7 @@
 This is a summary of recent semi-supervised semantic segmentation methods. Plese feel free to contact me (sbysbysby123@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
 
 
-*NOTE:*  The methods of semi-supervised medical segmentation methods are noe included, you can find them at [here](https://github.com/HiLab-git/SSL4MIS). As for general semi-supervised learning, you can refer to [this repo](https://github.com/yassouali/awesome-semi-supervised-learning).
+*NOTE:*  The methods of semi-supervised medical segmentation methods are not included, you can find them [here](https://github.com/HiLab-git/SSL4MIS). As for general semi-supervised learning, you can refer to [this repo](https://github.com/yassouali/awesome-semi-supervised-learning).
 
 ## 2022
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
