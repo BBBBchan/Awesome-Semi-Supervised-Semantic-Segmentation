@@ -35,6 +35,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Semi-supervision semantic segmentation with uncertainty-guided self cross supervision|USCS|Arxiv 2022|PASCAL VOC 2012|-|[Paper](https://arxiv.org/pdf/2203.05118.pdf)|
 |GuidedMix-Net: Semi-supervised Semantic Segmentation by Using Labeled Images as Reference| GuidedMix-Net|AAAI 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.14015)|
 |Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images|-|WACV 2022|UCM, deepglobe|[Code](https://github.com/immuno121/ALS4GAN)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.07782.pdf)|
+|The GIST and RIST of Iterative Self-Training for Semi-Supervised Segmentation|GIST RIST|CRV 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2103.17105.pdf)|
 
 ## 2021
 
@@ -43,6 +44,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |n-CPS: Generalising Cross Pseudo Supervision to n Networks for Semi-Supervised Semantic Segmentation|n-CPS|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.07528.pdf)|
 |Revisiting consistency for semi-supervised semantic segmentation|-|Arxiv 2021|Cityscapes|-|[Paper](https://arxiv.org/pdf/2106.07075.pdf)|
 |Robust Mutual Learning for Semi-supervised Semantic Segmentation|-|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2106.00609.pdf)|
+|Mask-based Data Augmentation for Semi-supervised Semantic Segmentation| ComplexMix |Arxiv 2021|Cityscapes|-|[Paper](https://arxiv.org/pdf/2101.10156.pdf)|
 |Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning|AEL|NeurIPS 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/hzhupku/SemiSeg-AEL)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.05474.pdf)|
 |Colour augmentation for improved semi-supervised semantic segmentation|-|Arxiv 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2110.04487.pdf)|
 | C3-SemiSeg: Contrastive Semi-supervised Segmentation via Cross-set Learning and Dynamic Class-balancing|C3-SemiSeg|ICCV 2021|Cityscapes, BDD100K|[Code](https://github.com/SIAAAAAA/C3-SemiSeg)![Github stars](https://img.shields.io/github/stars/SIAAAAAA/C3-SemiSeg)|[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_C3-SemiSeg_Contrastive_Semi-Supervised_Segmentation_via_Cross-Set_Learning_and_Dynamic_Class-Balancing_ICCV_2021_paper.pdf)|
@@ -52,5 +54,10 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Re-distributing Biased Pseudo Labels for Semi-supervised Semantic Segmentation: A Baseline Investigation|DARS|ICCV 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/CVMI-Lab/DARS)![Github stars](https://img.shields.io/github/stars/CVMI-Lab/DARS)|[Paper](https://arxiv.org/pdf/2107.11279.pdf)|
 |Semi-supervised Semantic Segmentation with Directional Context-aware Consistency|-|CVPR 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/dvlab-research/Context-Aware-Consistency)![Github stars](https://img.shields.io/github/stars/dvlab-research/Context-Aware-Consistency)|[Paper](https://arxiv.org/pdf/2106.14133.pdf)|
 |Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision|CPS|CVPR 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/charlesCXK/TorchSemiSeg)![Github stars](https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg)|[Paper](https://arxiv.org/pdf/2106.01226.pdf)|
+|Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation|-|CVPR 2021|PASCAL VOC 2012|[Code](https://github.com/jbeomlee93/AdvCAM)![Github stars](https://img.shields.io/github/stars/jbeomlee93/AdvCAM)|[Paper](https://arxiv.org/pdf/2103.08896.pdf)|
+|Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation|-|CVPR 2021|Cityscapes, GTA5, SYNTHIA|-|[Paper](https://arxiv.org/pdf/2103.04705.pdf)|
+|Learning from Pixel-Level Label Noise: A New Perspective for Semi-Supervised Semantic Segmentation|-|TIP 2021|PASCAL VOC 2012, PASCAL-Context, Cityscapes|-|[Paper](https://arxiv.org/pdf/2103.14242)|
+|A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation|-|TIP 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2012.00827.pdf)|
+
 
 
