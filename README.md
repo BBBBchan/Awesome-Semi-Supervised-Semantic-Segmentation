@@ -62,6 +62,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Learning from Pixel-Level Label Noise: A New Perspective for Semi-Supervised Semantic Segmentation|-|TIP 2021|PASCAL VOC 2012, PASCAL-Context, Cityscapes|-|[Paper](https://arxiv.org/pdf/2103.14242)|
 |A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation|-|TIP 2021|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2012.00827.pdf)|
 |PseudoSeg: Designing Pseudo Labels for Semantic Segmentation|PseudoSeg|ICLR 2021|PASCAL VOC 2012, MS COCO|[Code](https://github.com/googleinterns/wss)![Github stars](https://img.shields.io/github/stars/googleinterns/wss)|[Paper](https://arxiv.org/pdf/2010.09713.pdf)|
+|ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning|ClassMix|WACV 2021|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/WilhelmT/ClassMix)![Github stars](https://img.shields.io/github/stars/WilhelmT/ClassMix)|[Paper](https://arxiv.org/pdf/2007.07936.pdf)|
 
 
 
