@@ -66,3 +66,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 
 
 
+## 2020
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
+|Semi-supervised semantic segmentation needs strong, varied perturbations|-|BMVC 2020|PASCAL VOC 2012, Cityscapes, ISIC 2017|[Code](https://github.com/Britefury/cutmix-semisup-seg)![Github stars](https://img.shields.io/github/stars/Britefury/cutmix-semisup-seg)|[Paper](https://arxiv.org/pdf/1906.01916.pdf)|
