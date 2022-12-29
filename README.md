@@ -67,10 +67,11 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 
 
 ## 2020
-| Title| Abbreviation| &emsp;Published&emsp; | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
-| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
-|Semi-supervised semantic segmentation needs strong, varied perturbations|-|BMVC 2020|PASCAL VOC 2012, Cityscapes, ISIC 2017|[Code](https://github.com/Britefury/cutmix-semisup-seg)![Github stars](https://img.shields.io/github/stars/Britefury/cutmix-semisup-seg)|[Paper](https://arxiv.org/pdf/1906.01916.pdf)|
-|Semi-Supervised Semantic Segmentation with Cross-Consistency Training|CCT|CVPR 2020|PASCAL VOC 2012, CamVid|[Code](https://github.com/yassouali/CCT)![Github stars](https://img.shields.io/github/stars/yassouali/CCT)|[Paper](https://arxiv.org/pdf/2003.09005.pdf)|
+| Title | Abbreviation |  Published  | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Semi-Supervised Semantic Segmentation with Cross-Consistency Training|CCT|CVPR 2020|PASCAL VOC 2012, Cityscapes, CamVid|[Code](https://github.com/yassouali/CCT)![Github stars](https://img.shields.io/github/stars/yassouali/CCT)|[Paper](https://arxiv.org/pdf/2003.09005.pdf)|
 |Semi-Supervised Semantic Image Segmentation with Self-correcting Networks|-|CVPR 2020|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/1811.07073.pdf)|
 |A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation|-|CVPR 2020|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2012.00827.pdf)|
 |Guided Collaborative Training for Pixel-wise Semi-Supervised Learning|GCT|ECCV 2020|Pascal VOC 2012|[Code](https://github.com/ZHKKKe/PixelSSL)![Github stars](https://img.shields.io/github/stars/ZHKKKe/PixelSSL)|[Paper](https://arxiv.org/pdf/2008.05258.pdf)|
+|Semi-supervised semantic segmentation needs strong, varied perturbations|CutMix|BMVC2020|PASCAL VOC 2012, Cityscapes, ISIC 2017|[Code](https://github.com/Britefury/cutmix-semisup-seg)![Github stars](https://img.shields.io/github/stars/Britefury/cutmix-semisup-seg)|[Paper](https://arxiv.org/pdf/1906.01916.pdf)|
+
