@@ -73,3 +73,4 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |Semi-Supervised Semantic Segmentation with Cross-Consistency Training|CCT|CVPR 2020|PASCAL VOC 2012, CamVid|[Code](https://github.com/yassouali/CCT)![Github stars](https://img.shields.io/github/stars/yassouali/CCT)|[Paper](https://arxiv.org/pdf/2003.09005.pdf)|
 |Semi-Supervised Semantic Image Segmentation with Self-correcting Networks|-|CVPR 2020|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/1811.07073.pdf)|
 |A Three-Stage Self-Training Framework for Semi-Supervised Semantic Segmentation|-|CVPR 2020|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2012.00827.pdf)|
+|Guided Collaborative Training for Pixel-wise Semi-Supervised Learning|GCT|ECCV 2020|Pascal VOC 2012|[Code](https://github.com/ZHKKKe/PixelSSL)![Github stars](https://img.shields.io/github/stars/ZHKKKe/PixelSSL)|[Paper](https://arxiv.org/pdf/2008.05258.pdf)|
