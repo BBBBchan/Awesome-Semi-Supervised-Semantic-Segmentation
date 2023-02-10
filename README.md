@@ -38,6 +38,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 |GuidedMix-Net: Semi-supervised Semantic Segmentation by Using Labeled Images as Reference| GuidedMix-Net|AAAI 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2112.14015)|
 |Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images|-|WACV 2022|UCM, deepglobe|[Code](https://github.com/immuno121/ALS4GAN)![Github stars](https://img.shields.io/github/stars/immuno121/ALS4GAN)|[Paper](https://arxiv.org/pdf/2110.07782.pdf)|
 |The GIST and RIST of Iterative Self-Training for Semi-Supervised Segmentation|GIST RIST|CRV 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2103.17105.pdf)|
+|Learning Pseudo Labels for Semi-and-Weakly Supervised Semantic Segmentation|-|PR 2022|PASCAL VOC 2012, PASCAL-Context|[Code](https://github.com/YudeWang/Learning-Pseudo-Label)![Github stars](https://img.shields.io/github/stars/YudeWang/Learning-Pseudo-Label)|[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032200406X)|
 
 ## 2021
 
