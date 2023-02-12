@@ -8,6 +8,10 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 
 *NOTE:*  The methods of semi-supervised medical segmentation methods are not included, you can find them [here](https://github.com/HiLab-git/SSL4MIS). As for general semi-supervised learning, you can refer to [this repo](https://github.com/yassouali/awesome-semi-supervised-learning).
 
+## 2023
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
+Querying Labeled for Unlabeled: Cross-Image Semantic Consistency Guided Semi-Supervised Semantic Segmentation|CISC-R|TPAMI 2023|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/Luffy03/CISC-R)![Github stars](https://img.shields.io/github/stars/Luffy03/CISC-R)|[Paper](https://ieeexplore.ieee.org/document/10005033)|
 ## 2022
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
