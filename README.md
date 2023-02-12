@@ -71,7 +71,7 @@ Querying Labeled for Unlabeled: Cross-Image Semantic Consistency Guided Semi-Sup
 
 
 
-## 2020
+## 2020 ( Under construction )
 | Title | Abbreviation |  Published  | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |Semi-Supervised Semantic Segmentation with Cross-Consistency Training|CCT|CVPR 2020|PASCAL VOC 2012, Cityscapes, CamVid|[Code](https://github.com/yassouali/CCT)![Github stars](https://img.shields.io/github/stars/yassouali/CCT)|[Paper](https://arxiv.org/pdf/2003.09005.pdf)|
