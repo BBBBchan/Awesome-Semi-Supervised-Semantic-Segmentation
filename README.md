@@ -11,12 +11,13 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
+|Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation|UniMatch|CVPR 2023|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
+|Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation|AugSeg|CVPR 2023| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/ZhenZHAO/AugSeg)![Github stars](https://img.shields.io/github/stars/ZhenZHAO/AugSeg)|[Paper](https://arxiv.org/pdf/2212.04976.pdf)|
 Querying Labeled for Unlabeled: Cross-Image Semantic Consistency Guided Semi-Supervised Semantic Segmentation|CISC-R|TPAMI 2023|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/Luffy03/CISC-R)![Github stars](https://img.shields.io/github/stars/Luffy03/CISC-R)|[Paper](https://ieeexplore.ieee.org/document/10005033)|
 ## 2022
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |  
-|Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students | TCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.02178.pdf)
-|Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation|UniMatch|Arxiv 2022|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
+|Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students | TCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2209.02178.pdf)|
 |Multi-View Correlation Consistency for Semi-Supervised Semantic Segmentation|MVCC|Arxiv 2022|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2208.08437.pdf)|
 |Pseudo-Label Noise Suppression Techniques for Semi-Supervised Semantic Segmentation|-|BMVC 2022|PASCAL VOC 2012, Cityscapes, Mapillary|[Code](https://github.com/ChristmasFan/SSL_Denoising_Segmentation)![Github stars](https://img.shields.io/github/stars/ChristmasFan/SSL_Denoising_Segmentation)|[Paper](https://arxiv.org/pdf/2210.10426.pdf)|
 |Semantic Segmentation with Active Semi-Supervised Representation Learning|-|BMVC 2022|Cityscapes, CamVid|-|[Paper](https://arxiv.org/pdf/2210.08403.pdf)|
