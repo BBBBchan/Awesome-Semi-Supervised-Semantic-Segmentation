@@ -11,6 +11,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Semi-Supervised Semantic Segmentation With Region Relevance|RRN|ICME 2023| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/NUST-Machine-Intelligence-Laboratory/TorchSemiSeg2)![Github stars](https://img.shields.io/github/stars/NUST-Machine-Intelligence-Laboratory/TorchSemiSeg2)|[Paper](https://arxiv.org/pdf/2304.11539.pdf)|
 |CAFS: Class Adaptive Framework for Semi-Supervised Semantic Segmentation|CAFS|Arxiv 2023|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/cjf8899/CAFS)![Github stars](https://img.shields.io/github/stars/cjf8899/CAFS)|[Paper](https://arxiv.org/pdf/2303.11606.pdf)|
 |Revisiting Image Reconstruction for Semi-supervised Semantic Segmentation| | Arxiv 2023| PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2303.09794.pdf)|
 |Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation| UniMatch|CVPR 2023|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/LiheYoung/UniMatch)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch)| [Paper](https://arxiv.org/pdf/2208.09910.pdf)|
