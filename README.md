@@ -12,6 +12,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Plese
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation|CorrMatch|Arxiv 2023| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/BBBBchan/CorrMatch)![Github stars](https://img.shields.io/github/stars/BBBBchan/CorrMatch)|[Paper](https://arxiv.org/pdf/2306.04300.pdf)|
+|Triple-View Knowledge Distillation for Semi-Supervised Semantic Segmentation|Tri-KD| Arxiv 2023| PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2309.12557.pdf)|
 |Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation|CSS|Arxiv 2023|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2307.09755.pdf)|
 |CAFS: Class Adaptive Framework for Semi-Supervised Semantic Segmentation|CAFS|Arxiv 2023|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/cjf8899/CAFS)![Github stars](https://img.shields.io/github/stars/cjf8899/CAFS)|[Paper](https://arxiv.org/pdf/2303.11606.pdf)|
 |Revisiting Image Reconstruction for Semi-supervised Semantic Segmentation| FOrec | Arxiv 2023| PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2303.09794.pdf)|
