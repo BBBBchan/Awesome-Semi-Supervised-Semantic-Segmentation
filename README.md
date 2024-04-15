@@ -3,15 +3,24 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation/graphs/commit-activity)
 
-This is a summary of recent semi-supervised semantic segmentation methods. Plese feel free to contact me (sbysbysby123@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
+This is a summary of recent semi-supervised semantic segmentation methods. Please feel free to contact me (sbysbysby123@gmail.com) if I miss some papers. Issues and PRs are also welcomed! 
 
 
 *NOTE:*  The methods of semi-supervised medical segmentation methods are not included, you can find them [here](https://github.com/HiLab-git/SSL4MIS). As for general semi-supervised learning, you can refer to [this repo](https://github.com/yassouali/awesome-semi-supervised-learning).
+
+## 2024
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation|CorrMatch|CVPR 2024| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/BBBBchan/CorrMatch)![Github stars](https://img.shields.io/github/stars/BBBBchan/CorrMatch)|[Paper](https://arxiv.org/pdf/2306.04300.pdf)|
+|Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation|DDFP| CVPR 2024| PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2403.06462.pdf)|
+|AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation|AllSpark| CVPR 2024|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/xmed-lab/AllSpark)![Github stars](https://img.shields.io/github/stars/xmed-lab/AllSpark)|[Paper](https://arxiv.org/pdf/2403.01818.pdf)|
+|Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation|MLLC|TMM 2024|PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2404.02065.pdf)|
 
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation|CorrMatch|Arxiv 2023| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/BBBBchan/CorrMatch)![Github stars](https://img.shields.io/github/stars/BBBBchan/CorrMatch)|[Paper](https://arxiv.org/pdf/2306.04300.pdf)|
+|Semi-supervised Semantic Segmentation via Boosting Uncertainty on Unlabeled Data||Arxiv 2023| PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2311.18758.pdf)|
 |Triple-View Knowledge Distillation for Semi-Supervised Semantic Segmentation|Tri-KD| Arxiv 2023| PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2309.12557.pdf)|
 |Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation|CSS|Arxiv 2023|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2307.09755.pdf)|
 |CAFS: Class Adaptive Framework for Semi-Supervised Semantic Segmentation|CAFS|Arxiv 2023|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/cjf8899/CAFS)![Github stars](https://img.shields.io/github/stars/cjf8899/CAFS)|[Paper](https://arxiv.org/pdf/2303.11606.pdf)|
