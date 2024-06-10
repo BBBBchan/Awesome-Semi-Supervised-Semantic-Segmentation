@@ -11,6 +11,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 ## 2024
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
 |PRCL: Probabilistic Representation Contrastive Learning for Semi-Supervised Semantic Segmentation|PRCL| Arxiv 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2402.18117)|
 |CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation|CorrMatch|CVPR 2024| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/BBBBchan/CorrMatch)![Github stars](https://img.shields.io/github/stars/BBBBchan/CorrMatch)|[Paper](https://arxiv.org/pdf/2306.04300.pdf)|
 |Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation|DDFP| CVPR 2024| PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2403.06462.pdf)|
