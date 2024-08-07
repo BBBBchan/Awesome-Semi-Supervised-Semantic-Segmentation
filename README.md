@@ -17,6 +17,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 |CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation|CorrMatch|CVPR 2024| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/BBBBchan/CorrMatch)![Github stars](https://img.shields.io/github/stars/BBBBchan/CorrMatch)|[Paper](https://arxiv.org/pdf/2306.04300.pdf)|
 |Towards the Uncharted: Density-Descending Feature Perturbation for Semi-supervised Semantic Segmentation|DDFP| CVPR 2024| PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2403.06462.pdf)|
 |AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation|AllSpark| CVPR 2024|PASCAL VOC 2012, Cityscapes, MS COCO|[Code](https://github.com/xmed-lab/AllSpark)![Github stars](https://img.shields.io/github/stars/xmed-lab/AllSpark)|[Paper](https://arxiv.org/pdf/2403.01818.pdf)|
+|Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier|MPMC| ECCV 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2407.04036)|
 |Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation|MLLC|TMM 2024|PASCAL VOC 2012, Cityscapes||[Paper](https://arxiv.org/pdf/2404.02065.pdf)|
 
 ## 2023
