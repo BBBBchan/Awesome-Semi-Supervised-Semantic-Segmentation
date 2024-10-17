@@ -11,6 +11,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 ## 2024
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|UniMatch V2: Pushing the Limit of Semi-Supervised Semantic Segmentation|UniMatch V2| Arxiv 2024|PASCAL VOC 2012, Cityscapes, MS COCO, ADE20k|[Code](https://github.com/LiheYoung/UniMatch-V2)![Github stars](https://img.shields.io/github/stars/LiheYoung/UniMatch-V2)|[Paper](https://arxiv.org/pdf/2410.10777)|
 |Exploiting Minority Pseudo-Labels for Semi-Supervised Semantic Segmentation in Autonomous Driving| - | Arxiv 2024| PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2409.12680)|
 |Revisiting and Maximizing Temporal Knowledge in Semi-supervised Semantic Segmentation|PrevMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes, COCO, ADE20k|[Code](https://github.com/wooseok-shin/PrevMatch)![Github stars](https://img.shields.io/github/stars/wooseok-shin/PrevMatch)|[Paper](https://arxiv.org/abs/2405.20610)|
 |IPixMatch: Boost Semi-supervised Semantic Segmentation with Inter-Pixel Relation|IPixMatch| Arxiv 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2404.18891)|
