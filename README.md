@@ -22,6 +22,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 |RankMatch: Exploring the Better Consistency Regularization for Semi-supervised Semantic Segmentation|RankMatch| CVPR 2024| PASCAL VOC 2012, Cityscapes|[Code](https://github.com/mai556/RankMatch)![Github stars](https://img.shields.io/github/stars/mai556/RankMatch)|[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Mai_RankMatch_Exploring_the_Better_Consistency_Regularization_for_Semi-supervised_Semantic_Segmentation_CVPR_2024_paper.pdf)|
 |Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier|MPMC| ECCV 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2407.04036)|
 |Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation|MLLC|TMM 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2404.02065.pdf)|
+|Class Probability Space Regularization for semi-supervised semantic segmentation|CPSR|CVIU 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://doi.org/10.1016/j.cviu.2024.104146)|
 
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
