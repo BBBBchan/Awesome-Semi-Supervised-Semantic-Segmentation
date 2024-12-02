@@ -25,6 +25,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 |Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation|MLLC|TMM 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2404.02065.pdf)|
 |Class Probability Space Regularization for semi-supervised semantic segmentation|CPSR|CVIU 2024|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/PixelSegTech/CPSR)![Github stars](https://img.shields.io/github/stars/PixelSegTech/CPSR)|[Paper](https://doi.org/10.1016/j.cviu.2024.104146)|
 |Revisiting Network Perturbation for Semi-Supervised Semantic Segmentation|MLPMatch|PRCV 2024|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/LlistenL/MLPMatch)![Github stars](https://img.shields.io/github/stars/LlistenL/MLPMatch)|[Paper](https://arxiv.org/pdf/2411.05307)|
+|Hybrid Architectures Ensemble Learning for pseudo-label refinement in semi-supervised segmentation| HAEL| INFFUS 2025 |PASCAL VOC 2012, Cityscapes|-|[Paper](https://doi.org/10.1016/j.inffus.2024.102791)|
 
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
