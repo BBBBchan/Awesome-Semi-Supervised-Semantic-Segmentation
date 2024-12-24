@@ -30,7 +30,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 |Revisiting Network Perturbation for Semi-Supervised Semantic Segmentation|MLPMatch|PRCV 2024|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/LlistenL/MLPMatch)![Github stars](https://img.shields.io/github/stars/LlistenL/MLPMatch)|[Paper](https://arxiv.org/pdf/2411.05307)|
 |Hybrid Architectures Ensemble Learning for pseudo-label refinement in semi-supervised segmentation| HAEL| INFFUS 2025 |PASCAL VOC 2012, Cityscapes|-|[Paper](https://doi.org/10.1016/j.inffus.2024.102791)|
 |Interactive Network Perturbation between Teacher and Students for Semi-Supervised Semantic Segmentation|GPS|WACV 2024|PASCAL VOC 2012, Cityscapes|-|[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cho_Interactive_Network_Perturbation_Between_Teacher_and_Students_for_Semi-Supervised_Semantic_WACV_2024_paper.pdf)|
-|Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation|UCCL|ICASSP 2024|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/YUKEKEJAN/UCCL)![Github stars](https://img.shields.io/github/stars/YUKEKEJAN/UCCL)|[Paper](https://arxiv.org/pdf/2412.17331)|
+|Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation|UCCL|ICASSP 2025|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/YUKEKEJAN/UCCL)![Github stars](https://img.shields.io/github/stars/YUKEKEJAN/UCCL)|[Paper](https://arxiv.org/pdf/2412.17331)|
 
 ## 2023
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
