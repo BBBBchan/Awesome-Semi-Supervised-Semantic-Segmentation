@@ -140,3 +140,16 @@ Querying Labeled for Unlabeled: Cross-Image Semantic Consistency Guided Semi-Sup
 |Guided Collaborative Training for Pixel-wise Semi-Supervised Learning|GCT|ECCV 2020|Pascal VOC 2012|[Code](https://github.com/ZHKKKe/PixelSSL)![Github stars](https://img.shields.io/github/stars/ZHKKKe/PixelSSL)|[Paper](https://arxiv.org/pdf/2008.05258.pdf)|
 |Semi-supervised semantic segmentation needs strong, varied perturbations|CutMix|BMVC2020|PASCAL VOC 2012, Cityscapes, ISIC 2017|[Code](https://github.com/Britefury/cutmix-semisup-seg)![Github stars](https://img.shields.io/github/stars/Britefury/cutmix-semisup-seg)|[Paper](https://arxiv.org/pdf/1906.01916.pdf)|
 
+## Citation
+
+If you find our repo useful for your research, please consider citing our paper:
+
+```bibtex
+@article{sun2023corrmatch,
+  title={CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation},
+  author={Sun, Boyuan and Yang, Yuqi and Zhang, Le and Cheng, Ming-Ming and Hou, Qibin},
+  journal={IEEE Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
+```
+
