@@ -13,6 +13,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation| CW-BASS|Arxiv 2025| PASCAL VOC 2012, Cityscapes | - |[Paper](https://arxiv.org/pdf/2502.15152) |
 |Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation| TokenMix|Arxiv 2025| PASCAL VOC 2012, Cityscapes, MS COCO | - |[Paper](https://arxiv.org/pdf/2503.02459) |
+|Knowledge Consultation for Semi-Supervised Semantic Segmentation|SegKC| Arxiv 2025| PASCAL VOC 2012, Cityscapes| -| [paper](https://arxiv.org/pdf/2503.10693)|
 |Uncertainty and Energy based Loss Guided Semi-Supervised Semantic Segmentation|DUEB|WACV 2025|PASCAL VOC 2012, Cityscapes|-|[Paper](https://arxiv.org/pdf/2501.01640)|
 |Uncertainty-Participation Context Consistency Learning for Semi-supervised Semantic Segmentation|UCCL|ICASSP 2025|PASCAL VOC 2012, Cityscapes|[Code](https://github.com/YUKEKEJAN/UCCL)![Github stars](https://img.shields.io/github/stars/YUKEKEJAN/UCCL)|[Paper](https://arxiv.org/pdf/2412.17331)|
 |Hybrid Architectures Ensemble Learning for pseudo-label refinement in semi-supervised segmentation| HAEL| INFFUS 2025 |PASCAL VOC 2012, Cityscapes|-|[Paper](https://doi.org/10.1016/j.inffus.2024.102791)|
