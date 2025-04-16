@@ -12,7 +12,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
 |IGL-DT: Iterative Global-Local Feature Learning with Dual-Teacher Semantic Segmentation Framework under Limited Annotation Scheme|IGL-DT|Arxiv 2025|PASCAL VOC 2012, Cityscapes| - | [Paper](https://arxiv.org/pdf/2504.09797)|
-|BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes|BoundMatch| Arxiv 2025|Cityscapes,BDD100K,SYNTHIA,PASCAL VOC 2012, ADE20K| -| [Paper](https://arxiv.org/pdf/2503.23519)|
+|BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes|BoundMatch| Arxiv 2025|Cityscapes, BDD100K, SYNTHIA, PASCAL VOC 2012, ADE20K| -| [Paper](https://arxiv.org/pdf/2503.23519)|
 |Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation| TokenMix|Arxiv 2025| PASCAL VOC 2012, Cityscapes, MS COCO | - |[Paper](https://arxiv.org/pdf/2503.02459) |
 |Knowledge Consultation for Semi-Supervised Semantic Segmentation|SegKC| Arxiv 2025| PASCAL VOC 2012, Cityscapes| -| [paper](https://arxiv.org/pdf/2503.10693)|
 |Confidence-Weighted Boundary-Aware Learning for Semi-Supervised Semantic Segmentation| CW-BASS|IJCNN 2025| PASCAL VOC 2012, Cityscapes | [Code](https://github.com/psychofict/CW-BASS)![Github stars](https://img.shields.io/github/stars/psychofict/CW-BASS) |[Paper](https://arxiv.org/pdf/2502.15152) |
