@@ -11,6 +11,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 ## 2025
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Adaptive Spatial Augmentation for Semi-supervised Semantic Segmentation|ASAug| Arxiv 2025|PASCAL VOC 2012, Cityscapes, MS COCO | - |[Paper](https://arxiv.org/pdf/2505.23438) |
 |IGL-DT: Iterative Global-Local Feature Learning with Dual-Teacher Semantic Segmentation Framework under Limited Annotation Scheme|IGL-DT|Arxiv 2025|PASCAL VOC 2012, Cityscapes| - | [Paper](https://arxiv.org/pdf/2504.09797)|
 |BoundMatch: Boundary detection applied to semi-supervised segmentation for urban-driving scenes|BoundMatch| Arxiv 2025|Cityscapes, BDD100K, SYNTHIA, PASCAL VOC 2012, ADE20K| -| [Paper](https://arxiv.org/pdf/2503.23519)|
 |Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation| TokenMix|Arxiv 2025| PASCAL VOC 2012, Cityscapes, MS COCO | - |[Paper](https://arxiv.org/pdf/2503.02459) |
