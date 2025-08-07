@@ -11,7 +11,7 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 ## 2025
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
-|Semi-Supervised Semantic Segmentation via Derivative Label Propagation| Arxiv 2025|PASCAL VOC 2012, Cityscapes| [Code](https://github.com/ForawardStar/DerProp/)![Github stars](https://img.shields.io/github/stars/ForawardStar/DerProp/) | [Paper](https://arxiv.org/pdf/2508.02254)|
+|Semi-Supervised Semantic Segmentation via Derivative Label Propagation|DerProp| Arxiv 2025|PASCAL VOC 2012, Cityscapes| [Code](https://github.com/ForawardStar/DerProp)![Github stars](https://img.shields.io/github/stars/ForawardStar/DerProp) | [Paper](https://arxiv.org/pdf/2508.02254)|
 |Leveraging Out-of-Distribution Unlabeled Images: Semi-Supervised Semantic Segmentation with an Open-Vocabulary Model|SemiOVS| Arxiv 2025 | PASCAL VOC 2012, PASCAL Context| [Code](https://github.com/wooseok-shin/SemiOVS)![Github stars](https://img.shields.io/github/stars/wooseok-shin/SemiOVS)|[Paper](https://arxiv.org/pdf/2507.03302)|
 |Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness|RSS| Arxiv 2025|PASCAL VOC 2012, Cityscapes| - | [Paper](https://arxiv.org/pdf/2504.06958)|
 |Adaptive Spatial Augmentation for Semi-supervised Semantic Segmentation|ASAug| Arxiv 2025|PASCAL VOC 2012, Cityscapes, MS COCO | - |[Paper](https://arxiv.org/pdf/2505.23438) |
