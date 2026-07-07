@@ -8,6 +8,11 @@ This is a summary of recent semi-supervised semantic segmentation methods. Pleas
 
 *NOTE:*  The methods of semi-supervised medical segmentation methods are not included, you can find them [here](https://github.com/HiLab-git/SSL4MIS). As for general semi-supervised learning, you can refer to [this repo](https://github.com/yassouali/awesome-semi-supervised-learning).
 
+## 2026
+| Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
+| :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
+|Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation|PixCon|Arxiv 2026|PASCAL VOC 2012, Cityscapes, ADE20k|[Code](https://github.com/psychofict/PixCon)![Github stars](https://img.shields.io/github/stars/psychofict/PixCon)| [Paper](https://arxiv.org/pdf/2607.03068)|
+
 ## 2025
 | Title| Abbreviation| Published | &emsp;&emsp;Dataset&emsp;&emsp;| CODE | PDF             |
 | :---------| :------------------------------:| :----------------------: | :-------------------------------------------------------------------------:| :--------------------: |  :--------------- |
